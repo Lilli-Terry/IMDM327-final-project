@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CHONK.unity
+    guid: a47cb45ebd5939a4da3d512413f4b4f9
+  - enabled: 1
+    path: Assets/Scenes/Minecraft.unity
+    guid: a468bf5ec4b9ff241943416d8b445372
+  - enabled: 1
+    path: Assets/Scenes/Real.unity
+    guid: 78fe903a3bd4c974d9c79adb79c6eb5c
+  m_configObjects: {}
